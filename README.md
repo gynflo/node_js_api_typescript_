@@ -29,3 +29,9 @@ Init Prisma client
 ```sh
 npx prisma init
 ```
+
+CLI prisma studio
+```sh
+npm prisma db push
+npx prisma studio
+```
